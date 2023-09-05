@@ -16,7 +16,7 @@ Each notebook begins with a clear problem statement that defines the forecasting
    - **Description**: Forecast the stock prices of Yahoo Inc. using multivariate time series modeling.
    - **Dataset Loading, Visualization, and Feature Engineering.**
 
-3. **Global COVID-19 Time Series Analysis**
+3. **Global COVID-19 Analysis and Forecasting**
    - **Dataset**: [Global COVID-19 Time Series Data](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv)
    - **Description**: Analyze the global COVID-19 pandemic using time series analysis.
    - **Dataset Loading, Visualization, and Data Exploration.**
