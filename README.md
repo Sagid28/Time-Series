@@ -25,23 +25,23 @@ Each notebook begins with a clear problem statement that defines the forecasting
 ## Common Workflow
 Each notebook follows a similar workflow:
 
-Dataset Loading: Load the dataset and prepare it for modeling.
+**Dataset Loading:** Load the dataset and prepare it for modeling.
 
-Data Visualization: Visualize the dataset to understand its characteristics and trends.
+**Data Visualization:** Visualize the dataset to understand its characteristics and trends.
 
-Data Splitting: Split the data into training and testing sets.
+**Data Splitting:** Split the data into training and testing sets.
 
-Time Series Generator: Use TimeseriesGenerator to format the data appropriately for time series forecasting.
+**Time Series Generator:** Use TimeseriesGenerator to format the data appropriately for time series forecasting.
 
-Model Building: Implement various forecasting models, including ARIMA, feed-forward neural networks, LSTM, stacked LSTM, bidirectional LSTM, and convolutional LSTM.
+**Model Building:** Implement various forecasting models, including ARIMA, feed-forward neural networks, LSTM, stacked LSTM, bidirectional LSTM, and convolutional LSTM.
 
-Model Training: Train the selected model on the training data.
+**Model Training:** Train the selected model on the training data.
 
-Prediction: Make predictions based on the testing or future data points.
+**Prediction:** Make predictions based on the testing or future data points.
 
-Evaluation: Calculate evaluation metrics such as Root Mean square Error (RMSE) to assess model performance.
+**Evaluation:** Calculate evaluation metrics such as Root Mean square Error (RMSE) to assess model performance.
 
-Forecasting and Visualization: Generate forecasts for future time periods and visualize the predictions alongside actual data.
+**Forecasting and Visualization:** Generate forecasts for future time periods and visualize the predictions alongside actual data.
 
 ## Model Variants
 
