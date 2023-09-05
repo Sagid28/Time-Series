@@ -5,19 +5,22 @@ This Git repository contains a collection of Jupyter Notebook files that demonst
 ## Problem Statement
 Each notebook begins with a clear problem statement that defines the forecasting task and its significance.
 
-# Datasets
-## 1. International Airline Passengers Prediction
-## Dataset: International Airline Passengers Dataset
-Description: Predict the number of international airline passengers in units of 1,000.
-Dataset Loading, Visualization, and Preprocessing.
-## 2. Yahoo Stock Market Price Prediction
-## Dataset: Yahoo Stock Market Data
-Description: Forecast the stock prices of Yahoo Inc. using multivariate time series modeling.
-Dataset Loading, Visualization, and Feature Engineering.
-## 3. Global COVID-19 Time Series Analysis
-## Dataset: Global COVID-19 Time Series Data
-Description: Analyze the global COVID-19 pandemic using time series analysis.
-Dataset Loading, Visualization, and Data Exploration.
+## Datasets
+1. **International Airline Passengers Prediction**
+   - **Dataset**: [International Airline Passengers Dataset](https://www.kaggle.com/datasets/rakannimer/air-passengers)
+   - **Description**: Predict the number of international airline passengers in units of 1,000.
+   - **Dataset Loading, Visualization, and Preprocessing.**
+
+2. **Yahoo Stock Market Price Prediction**
+   - **Dataset**: [Yahoo Stock Market Data](https://finance.yahoo.com/quote/GE/history/)
+   - **Description**: Forecast the stock prices of Yahoo Inc. using multivariate time series modeling.
+   - **Dataset Loading, Visualization, and Feature Engineering.**
+
+3. **Global COVID-19 Time Series Analysis**
+   - **Dataset**: [Global COVID-19 Time Series Data](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv)
+   - **Description**: Analyze the global COVID-19 pandemic using time series analysis.
+   - **Dataset Loading, Visualization, and Data Exploration.**
+
 
 ## Common Workflow
 Each notebook follows a similar workflow:
